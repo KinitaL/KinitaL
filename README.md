@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=It%20is%20not%20over%20until%20I%20win&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=50"/>
 </p>
-<br>
-<img src="https://tenor.com/seGUe5Up0qz.gif" alt="Luffy gif" width="500">
+<div style="display:flex; justify-content:center; width:100%;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk0bmk5enRlMjA3cGFhaTUxNm85aGx0MTBscThpbHdzb3ZmYXdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1195W96ZIyUra8/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 
 <!--
 **KinitaL/KinitaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
