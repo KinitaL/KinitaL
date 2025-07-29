@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=It%20is%20not%20over%20until%20I%20win&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=It%20is%20not%20over%20until%20I%20win&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=50"/>
 </p>
 <br>
 <img src="https://tenor.com/seGUe5Up0qz.gif" alt="Luffy gif" width="500">
