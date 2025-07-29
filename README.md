@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=It's not over until I win.&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<br>
+<img src="https://tenor.com/seGUe5Up0qz.gif" alt="Luffy gif" width="720">
 
 <!--
 **KinitaL/KinitaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
